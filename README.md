@@ -19,5 +19,7 @@ Technology Stack
 - Python
 - Human Mimicry Modeling
 
+This is my startup project, so I can't make everything open. But I still want to show how my project works for I need help.
+
 License
 MIT License (see LICENSE file)
